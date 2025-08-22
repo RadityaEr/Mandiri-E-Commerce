@@ -4,6 +4,10 @@ This repository contains SQL queries for analyzing **user, card, and transaction
 The queries are designed to provide insights into **key KPIs, trends, and geographic patterns**.  
 
 ---
+## 📊 Dashboard
+
+The interactive dashboard summarizing this analysis is available here:  
+👉 [View Looker Studio Dashboard](https://lookerstudio.google.com/your-dashboard-link)
 
 ## 🔑 1. KPI Overview
 
